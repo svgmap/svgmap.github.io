@@ -1,2 +1,4 @@
 # svgmap.github.io
-Root website for the SVGMap community and shared configurations
+Root repository for the Hyper Layering Community and shared configurations
+
+Community Home Page: http://hyperlayering.org
